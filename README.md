@@ -11,6 +11,10 @@ This repo conains JS Files as server is written in node js for faster delivery o
 First install all the dependency using npm install and then start the serve using node app.js
 A better way to do is to rent a server or use heroku server.
 
+## For Student App Code
+[Student App Code Repo](https://github.com/iamnfinity/Student-Conenct-Application)
+[Teacher App Code Repo](https://https://github.com/iamnfinity/Teacher-Conenct-Application)
+
 ## Team 
 
  - Aman Vishwakarma
