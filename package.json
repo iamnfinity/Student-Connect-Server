@@ -1,0 +1,23 @@
+{
+  "name": "attendencesystemserver",
+  "version": "1.0.0",
+  "description": "Server Side Script For Attendence System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Aman Vishwakarma",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "jshint": "^2.10.2",
+    "moment-timezone": "^0.5.26",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.16.0",
+    "tedious": "^6.3.0"
+  }
+}
